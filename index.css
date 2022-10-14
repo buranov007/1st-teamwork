@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+
+.body2{
+    background: #020A18;
+    height: 100vh;
+    width: 100%;
+    
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    
+}
+.p1{
+    font-family: 'Open Sans';
+    color: #fff; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    opacity: 0.7;
+    
+}
+.btn1{
+    font-family: 'Open Sans';
+    color: #fff; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    
+    background-color: #3A68B8;
+    border-radius: 5px;
+    width: 150px;
+    height: 52px;
+    left: 1049px;
+    top: 1600px;
+}
+.card{
+   color: #fff;
+   background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) -41.9%, #FFFFFF 600.68%);
+   opacity: 0.7; 
+   border-radius: 10px;
+   backdrop-filter: blur(100px);
+}
+.cardss{
+    top: 100px;
+}
